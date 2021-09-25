@@ -1,8 +1,8 @@
 # CMPE-297-Special_Topics
 
-Homework 1
-Part a: Implement SimCLR in PyTorch
-Part b: Implement SimCLR in Tensorflow
+Homework 1 <br />
+Part a: Implement SimCLR in PyTorch <br />
+Part b: Implement SimCLR in Tensorflow <br />
 
 Resources: <br />
 https://github.com/thunderInfy/simclr <br />
