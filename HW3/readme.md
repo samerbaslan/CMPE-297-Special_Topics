@@ -16,6 +16,6 @@ Resource: https://github.com/huggingface/notebooks/blob/master/examples/language
 Resource: https://github.com/huggingface/notebooks/blob/master/examples/language_modeling.ipynb
 
 
-## Part5: Multiple Choice
+## Part 5: Multiple Choice
 
 Resource: https://github.com/huggingface/notebooks/blob/master/examples/multiple_choice.ipynb
