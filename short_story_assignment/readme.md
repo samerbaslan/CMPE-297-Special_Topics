@@ -4,3 +4,4 @@
  
 * Slideshare presentation: https://www.slideshare.net/SamerBaslan/long-tailedlearning
 
+* Video: Found in this repo titled "Introduction to Deep Long-tailed Learning.webm"
